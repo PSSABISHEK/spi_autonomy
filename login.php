@@ -18,7 +18,7 @@
 
       else if ($mypassword == '') 
       {
-        echo "Please enter the pwd";
+        echo "Please enter the password";
       }
       
       else 
